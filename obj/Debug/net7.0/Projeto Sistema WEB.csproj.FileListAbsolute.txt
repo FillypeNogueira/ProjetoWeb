@@ -1,0 +1,35 @@
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/appsettings.Development.json
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/appsettings.json
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB.deps.json
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB.runtimeconfig.json
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB.pdb
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.csproj.AssemblyReference.cache
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.GeneratedMSBuildEditorConfig.editorconfig
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.AssemblyInfoInputs.cache
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.AssemblyInfo.cs
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.csproj.CoreCompileInputs.cache
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.MvcApplicationPartsAssemblyInfo.cs
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.MvcApplicationPartsAssemblyInfo.cache
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.RazorAssemblyInfo.cache
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.RazorAssemblyInfo.cs
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/staticwebassets/msbuild.Projeto Sistema WEB.Microsoft.AspNetCore.StaticWebAssets.props
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/staticwebassets/msbuild.build.Projeto Sistema WEB.props
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Projeto Sistema WEB.props
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Projeto Sistema WEB.props
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/staticwebassets.pack.json
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/staticwebassets.build.json
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/staticwebassets.development.json
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/scopedcss/bundle/Projeto Sistema WEB.styles.css
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.csproj.CopyComplete
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/refint/Projeto Sistema WEB.dll
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.pdb
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/Projeto Sistema WEB.genruntimeconfig.cache
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/obj/Debug/net7.0/ref/Projeto Sistema WEB.dll
