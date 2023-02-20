@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MQ6gP2FoXXLoCGckeWDdlJXIMp581StJtVbZEChkyVUTak2bBMMCsRI8v2knT3qEmrD39qN/XtYRlwic+IdBLA==",
+  "dgSpecHash": "i23MmWBPSB7T6uGE+aVq4/HMcmS+VdosErA8+8Rat/vlZiPvxDfN7ihK7jIpvkrRLf/e2dL/A4DSOQyJzkeImg==",
   "success": true,
   "projectFilePath": "/home/fillype/Área de Trabalho/Projeto Sistema WEB/Projeto Sistema WEB.csproj",
   "expectedPackageFiles": [
+    "/home/fillype/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
     "/home/fillype/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "/home/fillype/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/fillype/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
