@@ -5,6 +5,7 @@
 /home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB.runtimeconfig.json
 /home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB.dll
 /home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Projeto Sistema WEB.pdb
+/home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Dapper.dll
 /home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Microsoft.OpenApi.dll
 /home/fillype/Área de Trabalho/Projeto Sistema WEB/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll

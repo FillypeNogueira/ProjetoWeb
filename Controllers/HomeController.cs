@@ -20,12 +20,18 @@ namespace Projeto_Sistema_WEB.Controllers
 
         public IActionResult Contact()
         {
+            ViewData["Message"] = "";
+            ViewData["email"] = "";
 
+            return View();
         }
 
         public IActionResult Privacy()
         {
-            
+            ViewData["Message"] = "";
+            ViewData["email"] = "";
+
+            return View();
         }
 
 
