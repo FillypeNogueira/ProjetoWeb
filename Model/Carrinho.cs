@@ -2,6 +2,7 @@ namespace Projeto_Sistema_WEB.Model
 {
     public class Carrinho
     {
+        public int Id{get; set;}
         public List <Produto> Produtos {get; set;}
 
         public Carrinho()

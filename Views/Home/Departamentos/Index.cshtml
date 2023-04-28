@@ -1,4 +1,4 @@
-@model IEnumerable<Projeto_Sistema_WEB.Views.Home.Departamentos.Index> 
+@model IEnumerable<Projeto_Sistema_WEB.Model.Departamento> 
 @{
     ViewData["Title"] = "Departamentos";
 }
@@ -6,12 +6,37 @@
 <h1>Departamentos</h1>
 
 <div>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Create New</a> 
 </div>
 <table class="table">
-    <thread>
+    <thead>
         <tr>
             <tr>
                 @Html.DisplayNameFor(model => model.Id)
             <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th><th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach(var item in Model){
+         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome) 
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey*/})
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey*/})
+                @Html.ActionLink("Delete", "Edit", new { /* id=item.PrimaryKey*/})
+            </td>
+         </tr>
+}
+    </tbody>
+</table>           
+
                     
