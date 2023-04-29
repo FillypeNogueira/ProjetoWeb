@@ -8,24 +8,24 @@ namespace Projeto_Sistema_WEB.Controllers
     public class CarrinhoController : Controller
     {
 
-        private static List<Carrinho> Carrinhos = new List<Carrinho>();
+        private static List<Carrinho> carrinhos = new List<Carrinho>();
 
         [HttpGet]
         public List<Carrinho> GetCarrinhos()
         {
-            return Carrinhos;
+            return carrinhos;
         }
 
         [HttpPost]
         public  void AdicionarCarrinho([FromBody]Carrinho carrinho)
         {
-            Carrinhos.Add(carrinho);
+            carrinhos.Add(carrinho);
         }
 
         [HttpPut("{id}")]
         public void AtualizarCarrinho(int id, [FromBody]Carrinho carrinhoAtualizado)
         {
-            var carrinhoExistente = Carrinhos.FirstOrDefault(c => c.Id == id);
+            var carrinhoExistente = carrinhos.FirstOrDefault(x => x.Id == id);
 
             if(carrinhoExistente != null)
             {
@@ -36,13 +36,13 @@ namespace Projeto_Sistema_WEB.Controllers
         [HttpDelete("{id}")]
         public void ExcluirCarrinho(int id)
         {
-            var carrinhoExistente = Carrinhos.FirstOrDefault(c => c.Id == id);
+            var carrinhoExistente = carrinhos.FirstOrDefault(x => x.Id == id);
         }
 
-        /*[HttpGet]
+       /*[HttpGet]
         public  List<Carrinho> GetCarrinho(int id)
         {
-            return  Carrinhos.ToString().FirstOrDefault(c => c.Id == id);
+            return  carrinhos.FirstOrDefault(x => x.Id == id);
         }*/
         
     }
