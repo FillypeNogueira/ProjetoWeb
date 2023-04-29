@@ -3,7 +3,7 @@ using Projeto_Sistema_WEB.Model;
 
 namespace Projeto_Sistema_WEB.Controllers
 {
-    [Route("api/Clinte")]
+    [Route("api/Cliente")]
     public class ClienteController
     {
         private static List<Cliente> clientes = new List<Cliente>();
@@ -12,6 +12,12 @@ namespace Projeto_Sistema_WEB.Controllers
         public List<Cliente> GetClientes()
         {
             return clientes;
+        }
+
+        [HttpGet]
+        public Cliente GetClientesById(int id)
+        {
+            return clientes.Find(x => x.Id == id);
         }
 
         [HttpPost]
