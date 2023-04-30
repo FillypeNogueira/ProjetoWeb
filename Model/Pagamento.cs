@@ -9,12 +9,15 @@ namespace Projeto_Sistema_WEB.Model
 
         public DateTime Data {get; set;}
 
-        public Pagamento(int id, string tipo, double valor, DateTime data)
+        public int Status {get; set; }
+
+        public Pagamento(int id, string tipo, double valor, DateTime data, int status)
         {
             Id = id;
             Tipo = tipo;
             Valor = valor;
             Data = data;
+            Status = status;
         }
     }
 }
