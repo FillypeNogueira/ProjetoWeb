@@ -39,6 +39,15 @@ namespace Projeto_Sistema_WEB.Controllers
             }
         }
 
-        
+        [HttpDelete]
+        public void DeletarPedido(int id)
+        {
+            var pedidoExistente = pedidos.Find(x => x.Id == id);
+
+            if(pedidoExistente != null)
+            {
+                pedidos.Remove(pedidoExistente);
+            }
+        }
     }
 }
