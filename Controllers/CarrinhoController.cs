@@ -44,6 +44,5 @@ namespace Projeto_Sistema_WEB.Controllers
         {
             return  carrinhos.FirstOrDefault(x => x.Id == id);
         }*/
-        
     }
 }
